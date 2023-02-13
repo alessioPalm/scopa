@@ -1,0 +1,64 @@
+body{
+    background-color: green;    
+}
+
+div{
+    width: 400px;
+    height: 200px;
+   background-color: darkgoldenrod;
+}
+
+#Player1{
+    position: absolute;
+    left: 35%;
+}
+
+#Player2{
+
+    position: relative;
+    left: 35%;
+    top: 350px;
+}
+
+#mazzo{
+    position: relative;
+    top: 250px;
+    height: 300px;
+    width: 200px;
+}
+
+#banco{
+    position: relative;
+    left: 25%;
+    bottom: 210px;
+    height: 250px;
+    width: 600px;
+}
+
+img{
+    width: 130px;
+    height: 200px;
+}
+
+#logo{
+width: 100px;
+height: 100px;
+position: absolute;
+}
+
+button{
+    position: absolute;
+    top: 130px;
+    width: 100px;
+    height: 50px;
+    border-width: 2px;
+    border-color: aliceblue;
+    background-color: gold;
+}
+
+.card{
+    width: 100px;
+    height: 140px;
+    margin-left: 20px;
+
+}
